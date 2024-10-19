@@ -131,16 +131,18 @@ Los pasos mas importantes para su aplicación son:
    - O comenzar un nuevo subarreglo desde el elemento actual, si este es mayor que la suma anterior.
 
    La ecuación recursiva es:
+   
    $$
    maxcurrent=max⁡(nums[i],maxcurrent+nums[i])
    $$
+
    Donde `maxcurrent` es la mejor suma que se puede obtener al incluir el elemento actual.
 
-3. **Almacenamiento de Subproblemas (Memoización)**: No se recalculan los subproblemas ya resueltos. Aunque no se usa una tabla explícita, la variable `maxcurrent` almacena la solución parcial hasta el índice actual, evitando cálculos repetidos.
+4. **Almacenamiento de Subproblemas (Memoización)**: No se recalculan los subproblemas ya resueltos. Aunque no se usa una tabla explícita, la variable `maxcurrent` almacena la solución parcial hasta el índice actual, evitando cálculos repetidos.
 
-4. **Optimización Ascendente (Bottom-Up)**: El algoritmo comienza desde el primer elemento del arreglo y progresa hacia adelante, resolviendo primero los casos más pequeños (subarreglos de longitud 1, luego 2, etc.), hasta cubrir todo el arreglo.
+5. **Optimización Ascendente (Bottom-Up)**: El algoritmo comienza desde el primer elemento del arreglo y progresa hacia adelante, resolviendo primero los casos más pequeños (subarreglos de longitud 1, luego 2, etc.), hasta cubrir todo el arreglo.
 
-5. **Resultado Final**: Se almacena la mejor solución global en `max_global`, que contiene la suma máxima del subarreglo encontrado hasta el momento, y se actualiza cada vez que se encuentra un subarreglo con una suma mayor.
+6. **Resultado Final**: Se almacena la mejor solución global en `max_global`, que contiene la suma máxima del subarreglo encontrado hasta el momento, y se actualiza cada vez que se encuentra un subarreglo con una suma mayor.
 
 #### Escenario
 
