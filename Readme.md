@@ -60,7 +60,7 @@ El método de **Dividir y conquistar** es una estrategia para resolver problemas
 - **Conquistar:** Resuelve cada una de las instancias de entrada divididas. Si la instancia dividida no es lo suficientemente pequeña, utiliza la recursión para resolverla.
 - **Combinar:** Si es necesario, encuentra la respuesta de la instancia de entrada original combinando las respuestas de las instancias de entrada pequeñas.
 
-### 1. Aplicación del método Dividir y conquistar en la solución del cambio de monedas
+### 1. Aplicación del método Dividir y conquistar en la solución de encontrar la moneda mas pesada
 
 Seguiremos los siguientes pasos para su aplicación en la resolución de este ejercicio:
 
