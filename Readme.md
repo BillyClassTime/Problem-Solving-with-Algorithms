@@ -90,7 +90,7 @@ El enfoque **Dividir y conquistar** permite descomponer el problema del llenado 
 
 **Funciones secundarias**
 
-![](img\07.png)
+![](img/07.png)
 
 **Programa principal**
 
