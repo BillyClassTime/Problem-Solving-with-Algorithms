@@ -300,3 +300,9 @@ El problema requiere una solución que utilice la técnica de **búsqueda en pro
 **Programa principal**
 
 ![](img/15.png)
+
+## Referencias
+
+[Introduction to Algorithms Third Edition 2009](https://billyclasstimesa.blob.core.windows.net/documents/Introduction_to_Algorithms_Third_Edition_(2009).pdf)
+
+[Introducción a los algoritmos segunda edicón (Traducción al castellano)](https://billyclasstimesa.blob.core.windows.net/documents/pdfcoffee.com-introduccion-a-los-algoritmos-segunda-edicion-1-pdf.pdf)
