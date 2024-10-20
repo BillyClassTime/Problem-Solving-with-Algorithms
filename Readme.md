@@ -54,9 +54,8 @@ Con el **`print()`** de la *línea 13* en la función **`coin_change2()`**,  mos
 
 
 ## II - La Estrategia dividir y conquistar
-
+[^](#resolución-de-problemas-con-algoritmos)
 ### ¿ Cuál es la Estrategia dividir y conquistar?
-
 La **Estrategia dividir y conquistar** divide la instancia de entrada de un problema dado en dos o más instancias de entrada más pequeñas.
 Si la respuesta a la instancia de entrada dividida no se puede obtener de inmediato, se dividirá nuevamete en instancias de entrada más pequeñas aún.
 Si has obtenido la respuesta a la instancia de entrada dividida, puedes integrar esta respuesta para encontrar la respuesta a la instancia de entrada original.
@@ -106,7 +105,7 @@ El enfoque **Dividir y conquistar** permite descomponer el problema del llenado 
 
 
 ## III - Programación Dinámica (Dynamic Programming)
-
+[^](#resolución-de-problemas-con-algoritmos)
 ### ¿Qué es Programación Dinámica?
 
 La programación dinámica es una técnica de diseño de algoritmos que analiza las características recursivas de un problema dado y luego obtiene una respuesta en una solución de forma ascendente (bottom-up).
@@ -170,7 +169,7 @@ Este enunciado está planteando el problema de identificar el punto en el que la
 
 
 ## IV - Backtracking
-
+[^](#resolución-de-problemas-con-algoritmos)
 ### ¿Que es Backtracking?
 
 El retroceso o **Backtracking** es una estrategia útil de diseño de algoritmos que construye de manera incremental una solución candidata y retrocede tan pronto como determina que la solución candidata no puede llevar a una solución válida.
