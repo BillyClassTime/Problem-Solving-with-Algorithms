@@ -1,5 +1,12 @@
 # Resolución de problemas con algoritmos
 
+Las siguientes técnicas nos van a ayudar a la resolución de problemas con algoritmos:
+
+- [I   - El Enfoque Greedy](#i---el-enfoque-greedy)
+- [II  - La Estrategia dividir y conquistar](#ii---la-estrategia-dividir-y-conquistar)
+- [III - Programación Dinámica](#iii---programación-dinámica-dynamic-programming)
+- [IV  - Backtraking](#iv---backtracking)
+
 ## I - El Enfoque Greedy
 
 ### ¿Que es el Enfoque Greedy?
